@@ -1,0 +1,6 @@
+Password:	314112
+IV:		    44692932
+N:		    314112000044692932
+Clé privée b de Eloi, Henri et Sara: 	5321103914960683224975264
+Clé publique B de Eloi, Henri et Sara: 	3089461795188824779451885
+Chiffrement C de lentier N: 		    5855849996723033070255305
